@@ -1,0 +1,26 @@
+{
+  "name": "hexo-zngw-asset-image",
+  "version": "1.0.0",
+  "description": "为hexo中的资产图片提供绝对路径",
+  "main": "index.js",
+  "scripts": {
+    "test": "为hexo中的资产图片提供绝对路径"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zngw/hexo-zngw-asset-image.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "entities": "^1.1.2"
+  },
+  "keywords": [
+    "为hexo中的资产图片提供绝对路径"
+  ],
+  "author": "zngw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zngw/hexo-zngw-asset-image/issues"
+  },
+  "homepage": "https://github.com/zngw/hexo-zngw-asset-image#readme"
+}
